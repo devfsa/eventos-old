@@ -11,6 +11,11 @@ Faça um pull request e cadastre seu evento aqui! Ano corrente: **2019**.
 * **08** | Feira de Santana | [DevFSA Meetup #11](https://devfsa.com.br)
 * **01** | Feira de Santana | [Django Girls](https://djangogirls.org/feiradesantana/)
 
+## Ceará
+
+#### Junho
+* **07-09** | Fortaleza | [Darkmira Tour PHP](https://php.darkmiratour.rocks/2019/)
+
 ## Rio Grande do Sul
 
 #### Agosto
