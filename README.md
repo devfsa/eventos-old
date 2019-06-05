@@ -12,6 +12,11 @@ Faça um pull request e cadastre seu evento aqui! Ano corrente: **2019**.
 #### Agosto
 * **16-17** | Feira de Santana | [JSDay](https://fsa.jsday.com.br/)
 
+## Ceará
+
+#### Junho
+* **07-09** | Fortaleza | [Darkmira Tour PHP](https://php.darkmiratour.rocks/2019/)
+
 ## Rio Grande do Sul
 
 #### Agosto
