@@ -22,6 +22,11 @@ Faça um pull request e cadastre seu evento aqui! Ano corrente: **2019**.
 #### Junho
 * **07-09** | Fortaleza | [Darkmira Tour PHP](https://php.darkmiratour.rocks/2019/)
 
+## Goiás
+
+#### Agosto
+* **03** | Goiânia | [DevOpsDays Goiânia 2019](https://devopsdays.org/events/2019-goiania/)
+
 ## Pernambuco
 
 #### Julho
