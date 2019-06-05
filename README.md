@@ -4,9 +4,9 @@ Faça um pull request e cadastre seu evento aqui! Ano corrente: **2019**.
 ## Bahia
 
 #### Junho
-* **01** | Feira de Santana | [Django Girls](https://djangogirls.org/feiradesantana/)
-* **08** | Feira de Santana | [DevFSA Meetup #11](https://devfsa.com.br)
 * **14-15** | Salvador | [Rails Girls](http://railsgirls.com/salvador201906.html)
+* **08** | Feira de Santana | [DevFSA Meetup #11](https://devfsa.com.br)
+* **01** | Feira de Santana | [Django Girls](https://djangogirls.org/feiradesantana/)
 
 #### Agosto
 * **16-17** | Feira de Santana | [JSDay](https://fsa.jsday.com.br/)
