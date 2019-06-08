@@ -32,6 +32,9 @@ Faça um pull request e cadastre seu evento aqui! Ano corrente: **2019**.
 #### Julho
 * **19-21** | Recife | [Python Nordeste](https://2019.pythonnordeste.org/)
 
+#### Outubro
+* **19-20** | Recife | [PHPeste](https://www.phpeste.net/)
+
 ## Rio Grande do Sul
 
 #### Agosto
